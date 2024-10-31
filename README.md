@@ -19,6 +19,10 @@ I am a Lecturer at the [Department of CSE, United International University](http
 - **Bioinformatics**
 - **Data Science**
 
-- You may reach me via email [fahimhafiz@cse.uiu.ac.bd](mailto:fahimhafiz@cse.uiu.ac.bd) or [fahimeee2015@gmail.com](mailto:fahimeee2015@gmail.com).
-- For more information, you may check my [personal website]([https://charlie-xiao.github.io](https://fahimhafiz.github.io/)).
+### Research Collaboration
+I'm always interested in research collaborations at the intersection of Machine Learning, Computer Vision, IoT, and Human-Computer Interaction (HCI). For any queries or collaboration opportunities, feel free to reach out!
+
+- **Email**: [fahimhafiz@cse.uiu.ac.bd](mailto:fahimhafiz@cse.uiu.ac.bd) | [fahimeee2015@gmail.com](mailto:fahimeee2015@gmail.com)
+- **LinkedIn**: I'm active on [LinkedIn](https://www.linkedin.com/in/fahim-hafiz-47b3a5154/); feel free to connect and say "Hi!"
+- **Personal Website**: For more information, visit my [website](https://fahimhafiz.github.io/).
 
