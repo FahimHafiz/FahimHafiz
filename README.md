@@ -12,15 +12,15 @@
 I am a Lecturer at the [Department of CSE, United International University](https://www.uiu.ac.bd/) (UIU), Dhaka, Bangladesh. Previously, I served as a Lecturer at the [Department of EECE, Military Institute of Science and Technology](https://mist.ac.bd/) (MIST), Dhaka. I completed my B.Sc. in Electrical and Electronic Engineering from the [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/) (BUET) in 2021.
 
 ### Research Interests
-- **Computer Vision**
-- **IoT**
 - **Machine Learning**
+- **IoT**
+- **Health Informatics**
+- **Computer Vision**
 - **Human-Computer Interaction (HCI)**
-- **Bioinformatics**
-- **Data Science**
+
 
 ### Research Collaboration
-I'm always interested in research collaborations at the intersection of Machine Learning, Computer Vision, IoT, and Human-Computer Interaction (HCI). For any queries or collaboration opportunities, feel free to reach out!
+I'm always interested in research collaborations at the intersection of Machine Learning, Computer Vision, IoT, Health Informatics and Human-Computer Interaction (HCI). For any queries or collaboration opportunities, feel free to reach out!
 
 - **Email**: [fahimhafiz@cse.uiu.ac.bd](mailto:fahimhafiz@cse.uiu.ac.bd) | [fahimeee2015@gmail.com](mailto:fahimeee2015@gmail.com)
 - **LinkedIn**: I'm active on [LinkedIn](https://www.linkedin.com/in/fahim-hafiz-47b3a5154/); feel free to connect and say "Hi!"
