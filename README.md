@@ -13,10 +13,10 @@ I am a Lecturer at the [Department of CSE, United International University](http
 
 ### Research Interests
 - **Machine Learning**
-- **IoT**
+- **AI and Hardware**
+- **IoT/embedded systems**
 - **Health Informatics**
 - **Computer Vision**
-- **Human-Computer Interaction (HCI)**
 
 
 ### Research Collaboration
