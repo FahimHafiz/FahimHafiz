@@ -12,11 +12,9 @@
 I am a Lecturer at the [Department of CSE, United International University](https://www.uiu.ac.bd/) (UIU), Dhaka, Bangladesh. Previously, I served as a Lecturer at the [Department of EECE, Military Institute of Science and Technology](https://mist.ac.bd/) (MIST), Dhaka. I completed my B.Sc. in Electrical and Electronic Engineering from the [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/) (BUET) in 2021.
 
 ### Research Interests
-- **Machine Learning**
+- **Bioinformatics**
 - **AI and Hardware**
 - **IoT/embedded systems**
-- **Health Informatics**
-- **Computer Vision**
 
 
 ### Research Collaboration
