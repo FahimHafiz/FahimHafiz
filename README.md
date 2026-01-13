@@ -18,7 +18,7 @@ I am a Lecturer at the [Department of CSE, United International University](http
 
 
 ### Research Collaboration
-I'm always interested in research collaborations at the intersection of Machine Learning, Computer Vision, IoT, Health Informatics and Human-Computer Interaction (HCI). For any queries or collaboration opportunities, feel free to reach out!
+I'm always interested in research collaborations at the intersection of Machine Learning, Computer Vision, IoT, Bioinformatics, Hardware, and Embedded Systems. For any queries or collaboration opportunities, feel free to reach out!
 
 - **Email**: [fahimhafiz@cse.uiu.ac.bd](mailto:fahimhafiz@cse.uiu.ac.bd) | [fahimeee2015@gmail.com](mailto:fahimeee2015@gmail.com)
 - **LinkedIn**: I'm active on [LinkedIn](https://www.linkedin.com/in/fahim-hafiz-47b3a5154/); feel free to connect and say "Hi!"
