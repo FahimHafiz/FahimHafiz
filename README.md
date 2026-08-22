@@ -9,13 +9,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-FahimHafiz-lightgrey?logo=github)](https://github.com/FahimHafiz)
 [![Website](https://img.shields.io/badge/Website-fahimhafiz.github.io-lightblue)](https://fahimhafiz.github.io/)
 
-I am a Lecturer at the [Department of CSE, United International University](https://www.uiu.ac.bd/) (UIU), Dhaka, Bangladesh. Previously, I served as a Lecturer at the [Department of EECE, Military Institute of Science and Technology](https://mist.ac.bd/) (MIST), Dhaka. I completed my B.Sc. in Electrical and Electronic Engineering from the [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/) (BUET) in 2021.
+I am doing my PhD at Penn State University, University Park, USA. Previously, I worked as an Assistant Professor at the [Department of CSE, United International University](https://www.uiu.ac.bd/) (UIU), Dhaka, Bangladesh, where I am currently on study leave. I also served as a Lecturer at the [Department of EECE, Military Institute of Science and Technology](https://mist.ac.bd/) (MIST), Dhaka, and have a teaching experience in academia over 5 years. I completed my B.Sc. in Electrical and Electronic Engineering from the [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/) (BUET) in 2021.
 
 ### Research Interests
-- **Bioinformatics**
 - **AI and Hardware**
 - **IoT/embedded systems**
-
+- **Bioinformatics**
 
 ### Research Collaboration
 I'm always interested in research collaborations at the intersection of Machine Learning, Computer Vision, IoT, Bioinformatics, Hardware, and Embedded Systems. For any queries or collaboration opportunities, feel free to reach out!
